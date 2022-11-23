@@ -1,0 +1,55 @@
+#navbar .container {
+    flex-direction: column;
+    padding-bottom: 10px;
+}
+
+#navbar .logo {
+    padding-top: 20px;
+}
+
+#navbar ul {
+    flex-direction: column;
+    width: 100%;
+}
+
+#navbar ul li a {
+  padding: 5px 20px; 
+  border-bottom: #444 dotted 1px;
+}
+
+#home-info {
+    height: 420px;
+}
+
+#home-info .info-img {
+    display: none;
+}
+#home-info .info-content {
+    width: 100%;
+    padding: 20px 10px;
+}
+
+#features {
+    flex-direction: column;
+}
+
+#features .box {
+    width: 100%;
+}
+
+.about-content {
+    float: none;
+    width: 100%;
+}
+
+.about-img {
+    width: 100%;
+}
+
+
+.about-img img {
+    float: none;
+    border-radius: 60%;
+}
+
+.card img {}
